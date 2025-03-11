@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EndToEndDev
-- 👀 I’m interested in Python Web Applications
-- 🌱 I’m currently learning How to export xml from javascript
+- 👀 I’m interested in EVERYTHING
+- 🌱 I’m currently learning How to export xml from javascript and assembly for .exe
 - ⚡ Fun fact: I started coding when I was 9
 
 <!---
